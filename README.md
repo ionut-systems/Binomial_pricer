@@ -7,4 +7,4 @@ Moteur d'évaluation d'options financières (Européennes et Américaines) basé
 - Exécution compilée ultra-rapide (C++ / C#) sans dépendance lourde.
 - Sortie structurée prête pour l'audit quantitatif et l'automatisation.
 
-Développé par Beezeweb - Quantitative & Automation Tools.
+Développé par Beezeweb (ionut-systems) - Quantitative & Automation Tools.

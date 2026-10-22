@@ -3,7 +3,7 @@
 Moteur d'évaluation d'options financières (Européennes et Américaines) basé sur le modèle de l'arbre binomial de Cox-Ross-Rubinstein (CRR).
 
 <p align="center">
-  <img src="assets/cover_binomial_price.png" alt="Binomial Pricer Interface" width="700">
+  <img src="assets/cover_binomial_price" alt="Binomial Pricer Interface" width="700">
 </p>
 
 ## Fonctionnalités Clés

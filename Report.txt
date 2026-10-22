@@ -1,0 +1,17 @@
+===========================================
+   BINOMIAL OPTION PRICER (CRR Model) v1.0 
+===========================================
+
+Parametres de l'option :
+ - Prix Spot (S) : 100.0000 EUR
+ - Strike (K)    : 100.0000 EUR
+ - Taux sans risque (r) : 5.0000 %
+ - Volatilite (sigma)   : 20.0000 %
+ - Maturite (T)         : 1.0000 an(s)
+ - Nombre d'etapes (N)  : 500
+-------------------------------------------
+[RESULTATS]
+ Prix du Call Europeen : 10.4466 EUR
+ Prix du Put Europeen  : 5.5695 EUR
+===========================================
+
